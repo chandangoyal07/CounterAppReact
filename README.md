@@ -2,7 +2,7 @@
 
 # Live Demo [Here](https://counterappreact.chandangoyal2.repl.co/).
 
-# click it (https://counterappreact.chandangoyal2.repl.co/).
+# [click it] (https://counterappreact.chandangoyal2.repl.co/).
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
